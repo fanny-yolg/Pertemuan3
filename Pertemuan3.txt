@@ -1,0 +1,13 @@
+Task - Day 3 (Back End - GA)
+
+a. Summary for day 3 class
+1. Today's lesson consist of branching, merge and basic HTML & CSS
+2. Branch can be done from git or vs code
+3. Use command checkout -b <branch name> to make a new branch 
+4. Merge the branch to master in gitlab by cliking create request
+5. Built a simple website with vs code and gitlab
+6. Work with team using pull and push from gitlab
+
+b. Theory
+1. Git checkout -b <branch name> is used to make a new branch
+2. git pull origin <branch name> used to save the branch to our local repo
